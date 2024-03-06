@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <h3 align="center">Stats</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/alima987=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alima987)](https://git.io/streak-stats)
 
 
 
