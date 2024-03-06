@@ -66,7 +66,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <h3 align="center">Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alima987)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alima987&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **alima987/alima987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
