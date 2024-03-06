@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2>👋 Hi, I'm Alima </h1>
 
 <h3 align="center">Stack</h3>
@@ -7,7 +6,7 @@
 <tbody>
 <tr>
 <td align="center" width="30%">
-<h6>TypeScript • React • Redux • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • CSS Modules</h6>
+<h6>TypeScript • React • Redux • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • CSS Modules • ESLint • Sass • Webpack • VSCode</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/65166970/204084623-b5583821-48f0-466a-bb20-bf9ed003183a.svg" height="40px"/>
@@ -16,6 +15,10 @@
 <img src="https://user-images.githubusercontent.com/65166970/204084636-c680546c-edeb-4cbe-9ba3-bc00a5853c8c.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084640-fc0dc408-4594-4a9d-8b2d-7f864a0a7c39.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084645-ec69de45-81d0-4ef8-9a4c-84c69f89ab2a.svg" height="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40"/>&nbsp;
 </td>
 </tr>
 <tr>
@@ -59,6 +62,10 @@
 <a href="https://www.codewars.com/users/alima_987" title="Open account at Codewars">
 <img src="https://www.codewars.com/users/alima_987/badges/small" height="25px"/>
 </a>
+<a href="https://www.linkedin.com/in/alima-bassanova-a36147296/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 
 
 <!--
