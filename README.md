@@ -67,6 +67,7 @@
 </a>
 <h3 align="center">Stats</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alima987&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alima987&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **alima987/alima987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
