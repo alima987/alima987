@@ -6,7 +6,7 @@
 <tbody>
 <tr>
 <td align="center" width="30%">
-<h6>TypeScript • React • Redux • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • CSS Modules • ESLint • Sass • Webpack • VSCode</h6>
+<h6>TypeScript • React • Redux • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • CSS Modules • ESLint • Sass • Webpack • VSCode • NextJS • Tailwind</h6>
 </td>
 <td>
 <img src="https://user-images.githubusercontent.com/65166970/204084623-b5583821-48f0-466a-bb20-bf9ed003183a.svg" height="40px"/>
@@ -19,6 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40"/>&nbsp;
 </td>
 </tr>
 <tr>
