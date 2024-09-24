@@ -46,7 +46,7 @@
 <td>
 <img src="https://user-images.githubusercontent.com/65166970/204084684-c76c19ad-0651-4744-81a9-6bbd6521f497.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084686-ce87d896-9d70-468d-8451-aba59f9d2559.svg" height="40px"/>
-<img src="![image](https://user-images.githubusercontent.com/***.png)" height="40px"/
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" height="40px"/>
 </td>
 </tr>
 <tr>
